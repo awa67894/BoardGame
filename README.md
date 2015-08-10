@@ -1,3 +1,1 @@
-'''python
-  //code for color
-'''  
+Battleship board game
